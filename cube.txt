@@ -1,4 +1,5 @@
 Champion of the Parish
+Dauntless Bodyguard
 Dragon Hunter
 Elite Vanguard
 Isamaru, Hound of Konda
@@ -8,12 +9,16 @@ Mother of Runes
 Soldier of the Pantheon
 Student of Warfare
 Thraben Inspector
+Accorder Paladin
+Adanto Vanguard
 Anafenza, Kin-Tree Spirit
 Consul's Lieutenant
 Glory-Bound Initiate
 Hanweir Militia Captain
+Kor Skyfisher
 Leonin Relic-Warder
 Relic Seeker
+Seeker of the Way
 Selfless Spirit
 Stoneforge Mystic
 Thalia's Lieutenant
@@ -30,10 +35,14 @@ Monastery Mentor
 Recruiter of the Guard
 Soltari Champion
 Thalia, Heretic Cathar
+Vryn Wingmare
+Gisela, the Broken Blade
 Hero of Bladehold
 Restoration Angel
 Angel of Invention
 Archangel Avacyn
+Baneslayer Angel
+Regal Caracal
 Reveillark
 Sun Titan
 Elesh Norn, Grand Cenobite
@@ -47,8 +56,8 @@ Mana Tithe
 Path to Exile
 Swords to Plowshares
 Disenchant
-Secure the Wastes
 Unexpectedly Absent
+Secure the Wastes
 Balance
 Council's Judgment
 Spectral Procession
@@ -57,6 +66,7 @@ Day of Judgment
 Ravages of War
 Wrath of God
 Land Tax
+Legion's Landing
 Honor of the Pure
 Journey to Nowhere
 Banishing Light
@@ -70,6 +80,7 @@ Looter il-Kor
 Phantasmal Image
 Snapcaster Mage
 Thing in the Ice
+Aether Adept
 Deceiver Exarch
 Kira, Great Glass-Spinner
 Man-o'-War
@@ -80,9 +91,13 @@ Glen Elendra Archmage
 Sower of Temptation
 Venser, Shaper Savant
 Whirler Rogue
+Clocknapper
 Mulldrifter
 Riftwing Cloudskate
+Teferi, Mage of Zhalfir
 Consecrated Sphinx
+Frost Titan
+Jace Beleren
 Jace, the Mind Sculptor
 Tamiyo, the Moon Sage
 Torrential Gearhulk
@@ -92,23 +107,26 @@ Brainstorm
 Force Spike
 Mystical Tutor
 Spell Pierce
-Censor
+Condescend
 Counterspell
+Cyclonic Rift
 Daze
+Deprive
 Impulse
 Into the Roil
 Mana Leak
 Memory Lapse
 Miscalculation
 Remand
+Dissolve
 Forbid
-Forbidden Alchemy
+Frantic Search
+Repeal
 Thirst for Knowledge
 Cryptic Command
 Fact or Fiction
 Force of Will
 Mystic Confluence
-Condescend
 Pull from Tomorrow
 Dig Through Time
 Ancestral Vision
@@ -120,13 +138,15 @@ Show and Tell
 Tinker
 Deep Analysis
 Upheaval
+Treasure Cruise
+Search for Azcanta
 As Foretold
 Control Magic
 Opposition
+The Antiquities War
 Thopter Spy Network
 Treachery
 Bident of Thassa
-Thassa, God of the Sea
 Shelldock Isle
 Bloodsoaked Champion
 Carnophage
@@ -136,12 +156,14 @@ Diregraf Ghoul
 Dread Wanderer
 Gravecrawler
 Sarcomancy
+Vampire Lacerator
 Asylum Visitor
 Blood Artist
 Bloodghast
 Dark Confidant
 Glint-Sleeve Siphoner
 Heir of Falkenrath
+Kitesail Freebooter
 Mesmeric Fiend
 Oona's Prowler
 Pack Rat
@@ -150,9 +172,11 @@ Zulaport Cutthroat
 Bone Shredder
 Drana, Liberator of Malakir
 Flesh Carver
+Liliana, Heretical Healer
 Mardu Strike Leader
 Nantuko Husk
 Ophiomancer
+Ruin Raider
 Vampire Nighthawk
 Xathrid Necromancer
 Bloodline Keeper
@@ -168,13 +192,17 @@ Gurmag Angler
 Griselbrand
 Liliana of the Veil
 Liliana, the Last Hope
-Ob Nixilis Reignited
+Dark Ritual
 Entomb
 Vampiric Tutor
 Diabolic Edict
 Go for the Throat
+Malicious Affliction
 Ultimate Price
 Hero's Downfall
+Snuff Out
+Murderous Cut
+Duress
 Inquisition of Kozilek
 Reanimate
 Thoughtseize
@@ -186,6 +214,7 @@ Read the Bones
 Damnation
 Languish
 Living Death
+Black Sun's Zenith
 Animate Dead
 Bitterblossom
 Dance of the Dead
@@ -193,11 +222,13 @@ Necromancy
 Recurring Nightmare
 Whip of Erebos
 Gnarled Scarhide
+Brain Maggot
 Bloodlust Inciter
 Falkenrath Gorger
 Firedrinker Satyr
 Goblin Glory Chaser
 Goblin Guide
+Goblin Welder
 Greater Gargadon
 Grim Lavamancer
 Jackal Pup
@@ -209,27 +240,30 @@ Abbot of Keral Keep
 Dire Fleet Daredevil
 Earthshaker Khenra
 Kari Zev, Skyship Raider
-Plated Geopede
+Keldon Marauders
 Stormblood Berserker
 War-Name Aspirant
 Young Pyromancer
 Ahn-Crop Crasher
+Chandra's Phoenix
 Feldon of the Third Path
 Goblin Rabblemaster
 Hanweir Garrison
 Pia Nalaar
 Flametongue Kavu
+Hazoret the Fervent
 Hellrider
 Pia and Kiran Nalaar
 Glorybringer
 Goblin Dark-Dwellers
 Kiki-Jiki, Mirror Breaker
 Siege-Gang Commander
+Thundermaw Hellkite
 Zealous Conscripts
 Inferno Titan
+Bedlam Reveler
 Chandra, Torch of Defiance
-Koth of the Hammer
-Sarkhan, the Dragonspeaker
+Daretti, Scrap Savant
 Chandra, Flamecaller
 Shrine of Burning Rage
 Burst Lightning
@@ -248,12 +282,18 @@ Chain Lightning
 Faithless Looting
 Firebolt
 Arc Trail
+Pyroclasm
 Collective Defiance
+Kari Zev's Expertise
+Rift Bolt
 Fiery Confluence
+Hour of Devastation
 Burning of Xinye
 Earthquake
 Rolling Earthquake
 Wildfire
+Goblin Bombardment
+The Flame of Keld
 Sulfuric Vortex
 Purphoros, God of the Forge
 Sneak Attack
@@ -261,6 +301,7 @@ Splinter Twin
 Arbor Elf
 Avacyn's Pilgrim
 Birds of Paradise
+Elves of Deep Shadow
 Elvish Mystic
 Fyndhorn Elves
 Joraga Treespeaker
@@ -270,7 +311,7 @@ Duskwatch Recruiter
 Fauna Shaman
 Longtusk Cub
 Lotus Cobra
-Mayor of Avabruck
+Melira, Sylvok Outcast
 Noose Constrictor
 Priest of Titania
 Rofellos, Llanowar Emissary
@@ -279,11 +320,9 @@ Scavenging Ooze
 Sylvan Advocate
 Sylvan Caryatid
 Tarmogoyf
+Wall of Blossoms
 Wall of Roots
-Wild Mongrel
-Elvish Archdruid
 Eternal Witness
-Manglehorn
 Nissa, Vastwood Seer
 Ramunap Excavator
 Reclamation Sage
@@ -291,16 +330,19 @@ Rhonas the Indomitable
 Rishkar, Peema Renegade
 Somberwald Sage
 Tireless Tracker
+Uktabi Orangutan
 Yavimaya Elder
 Master of the Wild Hunt
 Oracle of Mul Daya
 Polukranos, World Eater
 Thrun, the Last Troll
+Vengevine
 Acidic Slime
 Conclave Naturalists
 Deranged Hermit
 Thragtusk
 Wolfir Silverheart
+Carnage Tyrant
 Primeval Titan
 Hornet Queen
 Craterhoof Behemoth
@@ -309,94 +351,124 @@ Woodfall Primus
 Nissa, Voice of Zendikar
 Garruk Relentless
 Garruk Wildspeaker
+Birthing Pod
 Beast Within
+Channel
 Farseek
+Life from the Loam
+Rampant Growth
 Regrowth
+Cultivate
 Kodama's Reach
+Search for Tomorrow
+Harmonize
 Natural Order
 Plow Under
 Green Sun's Zenith
-Selvala's Stampede
 Tooth and Nail
+Oath of Nissa
 Rancor
 Survival of the Fittest
 Sylvan Library
 Curse of Predation
 Courser of Kruphix
+Treetop Village
+Dragonlord Ojutai
 Sphinx's Revelation
 Fractured Identity
 Celestial Colonnade
 Flooded Strand
+Glacial Fortress
 Hallowed Fountain
 Tundra
+The Scarab God
 Tezzeret, Agent of Bolas
 Baleful Strix
 Creeping Tar Pit
+Drowned Catacomb
 Polluted Delta
 Underground Sea
 Watery Grave
 Rakdos Cackler
 Vial Smasher the Fierce
+Murderous Redcap
 Kolaghan's Command
+Cut // Ribbons
 Badlands
 Blood Crypt
 Bloodstained Mire
+Foreboding Ruins
 Sulfurous Springs
 Bloodbraid Elf
+Huntmaster of the Fells
 Dragonlord Atarka
+Karplusan Forest
 Raging Ravine
 Stomping Ground
 Taiga
 Wooded Foothills
-Dryad Militant
-Fleecemane Lion
 Qasali Pridemage
+Kitchen Finks
+Mirri, Weatherlight Duelist
 Brushland
+Fortified Village
 Savannah
 Temple Garden
 Windswept Heath
+Tidehollow Sculler
 Lingering Souls
 Vindicate
 Caves of Koilos
+Fetid Heath
 Godless Shrine
 Marsh Flats
 Scrubland
+Meren of Clan Nel Toth
 Vraska the Unseen
 Abrupt Decay
+Pernicious Deed
 Bayou
-Llanowar Wastes
+Hissing Quagmire
 Overgrown Tomb
 Verdant Catacombs
+Woodland Cemetery
 Trygon Predator
-Shardless Agent
+Mystic Snake
 Breeding Pool
-Lumbering Falls
+Flooded Grove
+Hinterland Harbor
 Misty Rainforest
 Tropical Island
 Dack Fayden
-Ral Zarek
+Izzet Charm
+Keranos, God of Storms
 Scalding Tarn
 Shivan Reef
 Steam Vents
+Sulfur Falls
 Volcanic Island
 Figure of Destiny
 Boros Reckoner
 Lightning Helix
 Arid Mesa
 Battlefield Forge
+Clifftop Retreat
 Plateau
 Sacred Foundry
 Sphinx of the Steel Wind
 Batterskull
 Ulamog, the Ceaseless Hunger
 Emrakul, the Promised End
+Karn, Scion of Urza
 Karn Liberated
 Ugin, the Spirit Dragon
 Hangarback Walker
+Metallic Mimic
 Phyrexian Revoker
 Porcelain Legionnaire
 Scrapheap Scrounger
 Walking Ballista
+Phyrexian Metamorph
 Solemn Simulacrum
 Wurmcoil Engine
 Myr Battlesphere
@@ -405,48 +477,50 @@ Chrome Mox
 Mox Diamond
 Aether Vial
 Bonesplitter
-Mana Vault
 Pithing Needle
+Sensei's Divining Top
 Skullclamp
 Azorius Signet
 Captain's Claws
-Coldsteel Heart
 Cranial Plating
 Dimir Signet
 Everflowing Chalice
-Grim Monolith
-Isochron Scepter
-Izzet Signet
-Lightning Greaves
 Mind Stone
-Orzhov Signet
-Simic Signet
 Smuggler's Copter
 Sorcerous Spyglass
 Talisman of Dominance
 Talisman of Progress
+Throne of the God-Pharaoh
 Umezawa's Jitte
 Winter Orb
 Basalt Monolith
 Coalition Relic
 Crucible of Worlds
+Cultivator's Caravan
 Grafted Wargear
+Heirloom Blade
 Sword of Feast and Famine
 Sword of Fire and Ice
 Sword of Light and Shadow
 Tangle Wire
 Worn Powerstone
+Fleetwheel Cruiser
 Hedron Archive
+Icy Manipulator
 Smokestack
+Thran Dynamo
+Eldrazi Monument
 Gilded Lotus
 Memory Jar
+Skysovereign, Consul Flagship
 Ancient Tomb
 City of Brass
+Evolving Wilds
 Gemstone Mine
 Mana Confluence
 Mishra's Factory
 Mutavault
 Reflecting Pool
 Strip Mine
+Terramorphic Expanse
 Wasteland
-Emissary's Ploy
