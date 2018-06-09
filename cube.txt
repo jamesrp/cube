@@ -518,6 +518,7 @@ City of Brass
 Evolving Wilds
 Gemstone Mine
 Mana Confluence
+Maze of Ith
 Mishra's Factory
 Mutavault
 Reflecting Pool
